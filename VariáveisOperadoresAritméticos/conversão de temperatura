@@ -1,8 +1,8 @@
-Algoritmo "ConversãoDeTemperatura"
+Algoritmo "ConversÃ£oDeTemperatura"
 // Disciplina   : PA
-// Professor   : Edilma Bindá
-// Sala : 1ºC
-// Autor(a)    : Vinícius Araujo Ramos
+// Professor   : Edilma BindÃ¡
+// Sala : 1ÂºC
+// Autor(a)    : VinÃ­cius Araujo Ramos
 // Data atual  : 09/03/2023
 Var
 F, C: real
@@ -19,7 +19,7 @@ F <- ((9*C) + 160)/5
 
 
 //final
- escreval (" a temperatura em fahrenheit é: " , F)
+ escreval (" a temperatura em fahrenheit Ã©: " , F)
 
 
 

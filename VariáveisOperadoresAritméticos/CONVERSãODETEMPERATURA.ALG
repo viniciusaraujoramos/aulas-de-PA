@@ -1,0 +1,28 @@
+Algoritmo "ConversãoDeTemperatura"
+// Disciplina   : PA
+// Professor   : Edilma Bindá
+// Sala : 1ºC
+// Autor(a)    : Vinícius Araujo Ramos
+// Data atual  : 09/03/2023
+Var
+F, C: real
+
+Inicio
+// entrada
+
+ escreval (" escreva a temperatura em celsius: ")
+ leia (C)
+
+//processamento
+F <- ((9*C) + 160)/5
+
+
+
+//final
+ escreval (" a temperatura em fahrenheit é: " , F)
+
+
+
+
+
+Fimalgoritmo

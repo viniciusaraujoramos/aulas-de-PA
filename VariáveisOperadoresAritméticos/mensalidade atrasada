@@ -1,8 +1,8 @@
 Algoritmo "MensalidadeAtrasada"
 // Disciplina   : PA
-// Professor   : Edilma Bindá
-// Sala : 1ºC
-// Autor(a)    : Vinícius Araujo Ramos
+// Professor   : Edilma BindÃ¡
+// Sala : 1ÂºC
+// Autor(a)    : VinÃ­cius Araujo Ramos
 // Data atual  : 09/03/2023
 Var
 valor, atraso, doisporcento, apagar, atualizada: real
@@ -11,7 +11,7 @@ mes: caractere
 Inicio
 // entrada
 
-  escreval (" escreva o mês de pagamento: ")
+  escreval (" escreva o mÃªs de pagamento: ")
   leia (mes)
   escreval (" escreva o valor da mensalidade: ")
   leia (valor)
@@ -27,6 +27,6 @@ Inicio
 //final
 
  escreval (" o valor da mensalidade em:" ,mes)
-  escreval ("atualizada é: " ,atualizada )
+  escreval ("atualizada Ã©: " ,atualizada )
 
 Fimalgoritmo
